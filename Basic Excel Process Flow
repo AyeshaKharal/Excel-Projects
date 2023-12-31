@@ -1,0 +1,13 @@
+  Purpose: Basic Excel Process Flow 
+1. Cleaning data: 
+ - Remove Duplicates (unless specifically needed), Clean, Proper, Trim, Concatenate, 
+  Len (if number of digits matter, IF, Vlookup, Substitute
+2. Retriving all required data into a master sheet:
+ - Vlookup
+ - Xlookup 
+3. Structured Representation:
+ - Pivot Tables 
+4. Visualization
+ - Charts from pivot tables
+5. Dashboarding
+ - Visualizations + Splits organized as a dashboard 
